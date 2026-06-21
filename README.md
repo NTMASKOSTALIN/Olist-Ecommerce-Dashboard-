@@ -9,7 +9,7 @@ By analysing customer transactions, delivery performance, review behaviour, and 
 
 ## Project Links:
 
-GitHub: https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/tree/main
+GitHub: https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-
 
 Tableau: https://public.tableau.com/views/OlistECommerceDashboard_17810122103490/CustomerRetention?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
