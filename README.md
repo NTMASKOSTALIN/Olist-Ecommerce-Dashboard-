@@ -20,15 +20,15 @@ Identify the key operational and experiential drivers of customer churn on the O
 Delivery delays and poor post-purchase experience — reflected in low review scores — are the primary drivers of customer churn on the Olist platform, with customers who experience delays beyond a critical threshold being significantly less likely to return.
 
 ## Business Questions:
-1. Customer Retention & Churn
+**1. Customer Retention & Churn**
    
- •	What percentage of customers are one-time vs. repeat buyers?
+What percentage of customers are one-time vs. repeat buyers?
 
- •	After how many days do customers typically stop purchasing?
+After how many days do customers typically stop purchasing?
 
- •	Which customers show early signs of churn based on recency?
+Which customers show early signs of churn based on recency?
 
-3. Revenue & Customer Value
+**2. Revenue & Customer Value**
    
 •	Do repeat customers contribute disproportionately more revenue than one-time buyers?
 
@@ -36,7 +36,7 @@ Delivery delays and poor post-purchase experience — reflected in low review sc
 
 •	How does basket size (AOV) and purchase frequency influence total revenue?
 
-5. Delivery Performance:
+**3. Delivery Performance**
    
 •	Is there a measurable delay threshold beyond which customer satisfaction drops sharply?
 
