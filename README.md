@@ -22,11 +22,11 @@ Delivery delays and poor post-purchase experience — reflected in low review sc
 ## Business Questions:
 1. Customer Retention & Churn
    
-•	What percentage of customers are one-time vs. repeat buyers?
+ •	What percentage of customers are one-time vs. repeat buyers?
 
-•	After how many days do customers typically stop purchasing?
+ •	After how many days do customers typically stop purchasing?
 
-•	Which customers show early signs of churn based on recency?
+ •	Which customers show early signs of churn based on recency?
 
 3. Revenue & Customer Value
    
