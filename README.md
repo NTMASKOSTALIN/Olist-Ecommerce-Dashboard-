@@ -1,5 +1,3 @@
-<img width="1599" height="899" alt="Executive Overview (2)" src="https://github.com/user-attachments/assets/141abda0-b81b-453b-80eb-61ab6f532e86" /># Olist-Ecommerce-Dashboard-
-
 ## Project Title:
 Customer Retention & Revenue Optimization in Olist E-Commerce Platform
 
@@ -144,15 +142,15 @@ Delivery delays and poor post-purchase experience — reflected in low review sc
 
 **Business Recommendations:** Identified that 96.9% of customers were one-time buyers and that VIP and Loyal customers generated approximately 75% of total revenue. Recommended targeted retention campaigns, loyalty programs, personalized cross-selling strategies, seller performance monitoring, logistics optimization initiatives, and win-back campaigns to improve customer retention and maximize lifetime value.
 
-<img width="1599" height="899" alt="Executive Overview" src="https://github.com/user-attachments/assets/51901ced-4e15-486a-81aa-9d07fa1c6d76" />
+![Uploading Executive Overview (2).png…]()
 
-<img width="1599" height="899" alt="Customer Retention" src="https://github.com/user-attachments/assets/bd1da2a5-0f12-435f-833f-5be7c95fddf7" />
+![Uploading Customer Retention (1).png…]()
 
 <img width="1599" height="899" alt="Revenue   CLV" src="https://github.com/user-attachments/assets/9ab6d565-f2fd-4057-acf2-1b7f55f53a05" />
 
 <img width="1599" height="899" alt="Delivery Performance" src="https://github.com/user-attachments/assets/3fc67c61-3c30-426b-ae51-3cf667c4e6a2" />
 
-<img width="1599" height="899" alt="Customer Experience" src="https://github.com/user-attachments/assets/1e94f03d-9de6-4ae9-af16-cfc4c03022fa" />
+![Uploading Customer Experience (1).png…]()
 
 <img width="1599" height="899" alt="Seller   Product" src="https://github.com/user-attachments/assets/fc314517-4ed9-4eea-a61e-a1f6880e8da8" />
 
