@@ -142,15 +142,15 @@ Delivery delays and poor post-purchase experience — reflected in low review sc
 
 **Business Recommendations:** Identified that 96.9% of customers were one-time buyers and that VIP and Loyal customers generated approximately 75% of total revenue. Recommended targeted retention campaigns, loyalty programs, personalized cross-selling strategies, seller performance monitoring, logistics optimization initiatives, and win-back campaigns to improve customer retention and maximize lifetime value.
 
-![Uploading Executive Overview (2).png…]()
+<img width="1599" height="899" alt="Executive Overview" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/blob/main/Executive%20Overview-%201.png" />
 
-![Uploading Customer Retention (1).png…]()
+<img width="1599" height="899" alt="Customer Retention" src=" 
 
 <img width="1599" height="899" alt="Revenue   CLV" src="https://github.com/user-attachments/assets/9ab6d565-f2fd-4057-acf2-1b7f55f53a05" />
 
 <img width="1599" height="899" alt="Delivery Performance" src="https://github.com/user-attachments/assets/3fc67c61-3c30-426b-ae51-3cf667c4e6a2" />
 
-![Uploading Customer Experience (1).png…]()
+<img width="1599" height="899" alt="Customer Experience" src="
 
 <img width="1599" height="899" alt="Seller   Product" src="https://github.com/user-attachments/assets/fc314517-4ed9-4eea-a61e-a1f6880e8da8" />
 
