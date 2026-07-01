@@ -1,4 +1,4 @@
-# Olist-Ecommerce-Dashboard-
+<img width="1599" height="899" alt="Executive Overview (2)" src="https://github.com/user-attachments/assets/141abda0-b81b-453b-80eb-61ab6f532e86" /># Olist-Ecommerce-Dashboard-
 
 ## Project Title:
 Customer Retention & Revenue Optimization in Olist E-Commerce Platform
@@ -22,151 +22,115 @@ Delivery delays and poor post-purchase experience — reflected in low review sc
 ## Business Questions:
 **1. Customer Retention & Churn**
    
-What percentage of customers are one-time vs. repeat buyers?
+• What percentage of customers are one-time vs. repeat buyers?
 
-After how many days do customers typically stop purchasing?
+• After how many days do customers typically stop purchasing?
 
-Which customers show early signs of churn based on recency?
+• Which customers show early signs of churn based on recency?
 
 **2. Revenue & Customer Value**
    
-•	Do repeat customers contribute disproportionately more revenue than one-time buyers?
+• Do repeat customers contribute disproportionately more revenue than one-time buyers?
 
-•	Which customer segments generate the highest lifetime value?
+• Which customer segments generate the highest lifetime value?
 
-•	How does basket size (AOV) and purchase frequency influence total revenue?
+• How does basket size (AOV) and purchase frequency influence total revenue?
 
 **3. Delivery Performance**
    
-•	Is there a measurable delay threshold beyond which customer satisfaction drops sharply?
+• Is there a measurable delay threshold beyond which customer satisfaction drops sharply?
 
-•	Which regions and sellers are responsible for the highest delivery delays?
+• Which regions and sellers are responsible for the highest delivery delays?
 
-7. Customer Experience
+**4. Customer Experience**
    
-•	What factors — delay, price, product type — most strongly predict low review scores?
+• What factors — delay, price, product type — most strongly predict low review scores?
 
-•	Do customers who leave low ratings have measurably lower repeat purchase rates?
+• Do customers who leave low ratings have measurably lower repeat purchase rates?
 
-9. Seller & Product Performance
+**5. Seller & Product Performance**
     
-•	Which sellers contribute most to delayed, cancelled, or poorly rated orders?
+• Which sellers contribute most to delayed, cancelled, or poorly rated orders?
 
-•	Which product categories drive repeat purchases vs. high dissatisfaction?
+• Which product categories drive repeat purchases vs. high dissatisfaction?
 
 ## KPIs
 
-1. Customer Retention
+**1. Customer Retention**
    
-•	Repeat Purchase Rate
+• Repeat Purchase Rate
 
-•	Churn Rate
+• Churn Rate
 
-•	Purchase Frequency
+• Purchase Frequency
 
-•	Avg Days Between Purchases
+• Avg Days Between Purchases
 
-•	Time to Churn
+• Time to Churn
 
-3. Revenue & Customer Value
+**2. Revenue & Customer Value**
    
-•	Total Revenue
+• Total Revenue
 
-•	Average Order Value (AOV)
+• Average Order Value (AOV)
 
-•	Revenue per Customer
+• Revenue per Customer
 
-•	CLV Proxy
+• CLV Proxy
 
-•	One-time vs. Repeat Revenue Split
+• One-time vs. Repeat Revenue Split
 
-•	Revenue by RFM Segment
+• Revenue by RFM Segment
 
-5. Delivery Performance
+**3. Delivery Performance**
    
-•	Avg Delivery Time
+• Avg Delivery Time
 
-•	Delivery Delay Rate
+• Delivery Delay Rate
 
-•	Avg Delay Duration
+• Avg Delay Duration
 
-•	Delay Threshold Impact
+• Delay Threshold Impact
 
-•	Regional Delay Rate
+• Regional Delay Rate
 
-7. Customer Experience
+**4. Customer Experience**
    
-•	Average Review Score
+• Average Review Score
 
-•	Low Rating Rate
+• Low Rating Rate
 
-•	Review Score vs. Delivery Status
+• Review Score vs. Delivery Status
 
-•	Repeat Rate by Review Score
+• Repeat Rate by Review Score
 
-•	Review Score by Product Category
+• Review Score by Product Category
 
-9. Seller Performance
+**5. Seller Performance**
     
-•	Seller Delay Rate
+• Seller Delay Rate
 
-•	Seller Average Rating
+• Seller Average Rating
 
-•	Seller Cancellation Rate
+• Seller Cancellation Rate
 
-•	Seller Revenue Contribution
+• Seller Revenue Contribution
 
-11. Product Performance
+**6. Product Performance**
 
-•	Repeat Purchase Rate by Category
+• Repeat Purchase Rate by Category
 
-•	Low Rating Rate by Category
+• Low Rating Rate by Category
 
-•	Revenue Contribution by Category
+• Revenue Contribution by Category
 
-13. Advanced
+**7. Advanced**
     
-•	RFM Segmentation
+• RFM Segmentation
 
-•	Retention Cohort Rate
+• Retention Cohort Rate
 
-•	Early Churn Signals
-
-## Project Flow
-
-Raw Data
-
-      ↓
-   
-SQL ETL & Data Quality Checks
-
-      ↓
-   
-Data Cleaning & Integration
-
-      ↓
-   
-Master Analytical Dataset
-
-      ↓
-   
-Python EDA & Advanced Analytics
-
-      ↓
-   
-RFM + Cohort + CLV + Churn Analysis
-
-      ↓
-   
-KPI Development
-
-      ↓
-   
-Tableau Dashboard
-
-      ↓
-   
-Business Insights & Recommendations
+• Early Churn Signals
 
 ## Process
 
