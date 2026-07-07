@@ -172,8 +172,12 @@ Customers with delayed deliveries had a **94.63% churn rate vs. 93.61% for on-ti
 
 ## Conclusion:
 
-The Customer Retention & Revenue Optimization dashboard provides a comprehensive view of customer behavior, revenue performance, delivery operations, and seller effectiveness across the Olist marketplace.
+This analysis of **99,252 orders** across Olist's Brazilian e-commerce platform (Sept 2016 – Oct 2018) reveals that the analysis indicates platform's primary retention challenge is structural rather than operational.
 
-The analysis identified customer retention as the primary business challenge, with nearly all customers purchasing only once despite generally positive satisfaction levels. Findings showed that while delivery delays significantly affect customer experience, improving retention requires strategies beyond operational improvements alone.
+The hypothesis that delivery delays are the primary driver of churn was statistically confirmed **(Chi-Square p = 0.0012, α = 0.05)** — but the practical **gap of only 1.02% between delayed (94.63%) and on-time (93.61%)** churn rates tells the deeper story. Customers churn almost equally whether their order arrived late or on time. **High satisfaction is not driving repeat purchases** either — **Churned customers hold the highest average review score at 4.15**, above the **platform average of 4.10**. This makes clear that churn on Olist is a structural behavioural pattern, not a consequence of poor experience.
 
-The project enables stakeholders to monitor customer lifetime value, identify high-value customer segments, detect operational risks, optimize logistics performance, and implement targeted retention, cross-sell, and win-back initiatives to maximize long-term revenue growth.
+The revenue picture sharpens this finding. **VIP and Loyal segments together generate $12.0M — 75.1% of total $15.98M revenue** — yet represent a minority of customers. The **At-Risk segment (34.24%) and Churned segment (8.42%)** together hold customers whose lifetime spend **($107.3 and $56.5 AOV respectively)** reflects disengagement rather than dissatisfaction. The platform attracts new customers but struggles to convert them into repeat buyers.
+
+Two operational fixes stand out as immediate priorities independent of the structural problem. **First, 8,121 premature reviews averaging 2.77 stars** are artificially suppressing the platform's **4.09 average score** — a review email timing fix resolves this at zero cost. Second, Northern and Northeast states (AL 20.6%, MA 16.8%, SE 14.6%) face delay rates **2–3× the 6.58% platform average** while seller activity is heavily concentrated in SP, highlighting an opportunity for regional fulfilment expansion."
+
+The path forward requires action on **two parallel tracks — operational improvements to delivery SLAs and the review trigger bug, and strategic investment** in loyalty programs, post-purchase retargeting and cross-selling to address the structural repeat purchase gap that no amount of delivery optimisation alone can fix.
