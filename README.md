@@ -15,7 +15,7 @@ Tableau: https://public.tableau.com/views/OlistECommerceDashboard_17810122103490
 Identify the key operational and experiential drivers of customer churn on the Olist platform, and provide actionable recommendations to increase repeat purchase rates, optimise delivery performance, and maximise customer lifetime value (CLV).
 
 ## Hypothesis:
-Delivery delays and poor post-purchase experience — reflected in low review scores — are the primary drivers of customer churn on the Olist platform, with customers who experience delays beyond a critical threshold being significantly less likely to return.
+Delivery delays are associated with higher customer churn.
 
 ## Business Questions:
 **1. Customer Retention & Churn**
