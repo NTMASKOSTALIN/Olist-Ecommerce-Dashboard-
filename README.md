@@ -140,8 +140,6 @@ Delivery delays are associated with higher customer churn.
 
 **Interactive Dashboard Development (Tableau):** Designed a **6-page interactive Tableau dashboard** featuring **Executive Overview, Customer Retention, Revenue & CLV, Delivery Performance, Customer Experience, and Seller & Product Analytics**. Developed **30+ KPIs** including **Revenue, Churn Rate, Repeat Purchase Rate, Customer Lifetime Value (CLV), Average Order Value, Delivery Delay Rate, Review Score, Revenue Contribution, and Seller Performance**. Implemented **interactive filters, calculated fields, parameters, and dashboard actions** to enable dynamic business performance analysis.
 
-**Business Recommendations:** Identified that 96.9% of customers were one-time buyers and that VIP and Loyal customers generated approximately 75% of total revenue. Recommended targeted retention campaigns, loyalty programs, personalized cross-selling strategies, seller performance monitoring, logistics optimization initiatives, and win-back campaigns to improve customer retention and maximize lifetime value.
-
 <img width="1599" height="899" alt="Executive Overview" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/blob/main/Executive%20Overview-%201.png" />
 
 <img width="1599" height="899" alt="Customer Retention" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/blob/main/Customer%20Retention-%202.png" />
@@ -156,19 +154,23 @@ Delivery delays are associated with higher customer churn.
 
 ## Key Insights:
 
-1. **Customer Retention Challenge:** 96.9% of customers were one-time buyers, while only 3.1% returned for repeat purchases, highlighting a significant customer retention opportunity.
+1. **Customer Retention:** The platform retained only **3.12%** of customers, with most making a single purchase. This limits long-term revenue growth and increases customer acquisition costs. Implement **loyalty programs, personalized campaigns, and cross-selling initiatives** to improve **repeat purchases**.
 
-2. **Revenue Concentration:** VIP and Loyal customer segments contributed approximately 75% of total platform revenue, demonstrating that a small group of high-value customers drives the majority of business performance.
+2. **Churn:** **96.88%** of customers **never returned** after their **first purchase**, despite **churned customers** having the **highest average review score** (**4.15 vs. 4.10** platform average). **High satisfaction** alone is **not driving repeat purchases**, indicating a **structural retention challenge**. **Implement loyalty programs, retargeting campaigns, and post-purchase email** sequences to convert **one-time buyers into repeat customers.**
 
-3. **Delivery Experience Impact:** Average review scores dropped from 4.29 for on-time deliveries to below 2.0 for severely delayed orders, confirming that logistics performance strongly influences customer satisfaction.
+3. **RFM Segmentation:** RFM analysis showed **40.74% Loyal** customers, while **34.24% were At-Risk** and only **16.60% were VIP**. The large At-Risk segment highlights a **strong opportunity** to improve **customer retention**. **Target At-Risk customers** with **personalized campaigns** while rewarding VIP customers to **maximize retention and revenue**.
 
-4. **Churn Hypothesis Outcome:** Despite poor delivery experiences reducing satisfaction, churned customers still maintained an average review score of 4.15/5, indicating that customer churn is driven more by structural purchasing behavior than poor customer experience alone.
+4. **Revenue Concentration:** VIP and Loyal customer segments contributed approximately 75% of total platform revenue, demonstrating that a small group of high-value customers drives the majority of business performance.
 
-5. **Operational Revenue Leakage:** Identified payment-processing and fulfillment anomalies that resulted in shipped but unpaid orders, exposing preventable revenue leakage and operational control gaps.
+5. **Delivery Experience Impact:** Average review scores dropped from 4.29 for on-time deliveries to below 2.0 for severely delayed orders, confirming that logistics performance strongly influences customer satisfaction.
 
-6. **Customer Sentiment Issue:** Analysis revealed that 61.9% of reviews submitted before delivery were 1-star ratings, uncovering an automated communication issue negatively affecting customer perception.
+6. **Churn Hypothesis Outcome:** Despite poor delivery experiences reducing satisfaction, churned customers still maintained an average review score of 4.15/5, indicating that customer churn is driven more by structural purchasing behavior than poor customer experience alone.
 
-7. **Marketplace Concentration:** Seller and customer activity were heavily concentrated in São Paulo (SP), suggesting geographic dependency and potential delivery challenges for distant regions.
+7. **Operational Revenue Leakage:** Identified payment-processing and fulfillment anomalies that resulted in shipped but unpaid orders, exposing preventable revenue leakage and operational control gaps.
+
+8. **Customer Sentiment Issue:** Analysis revealed that 61.9% of reviews submitted before delivery were 1-star ratings, uncovering an automated communication issue negatively affecting customer perception.
+
+9. **Marketplace Concentration:** Seller and customer activity were heavily concentrated in São Paulo (SP), suggesting geographic dependency and potential delivery challenges for distant regions.
 
 ## Conclusion:
 
