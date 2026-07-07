@@ -131,7 +131,9 @@ Delivery delays are associated with higher customer churn.
 ## Tools & Technologies
 
 • SQL (ETL, Profiling, Cleaning)
+
 • Python (EDA, Feature Engineering, Statistical Analysis)
+
 • Tableau (Dashboarding)
 
 ## Process
