@@ -160,17 +160,15 @@ Delivery delays are associated with higher customer churn.
 
 3. **RFM Segmentation:** RFM analysis showed **40.74% Loyal** customers, while **34.24% were At-Risk** and only **16.60% were VIP**. The large At-Risk segment highlights a **strong opportunity** to improve **customer retention**. **Target At-Risk customers** with **personalized campaigns** while rewarding VIP customers to **maximize retention and revenue**.
 
-4. **Revenue Concentration:** VIP and Loyal customer segments contributed approximately 75% of total platform revenue, demonstrating that a small group of high-value customers drives the majority of business performance.
+4. **Revenue at Risk:** **VIP and Loyal customers** generated **$12.0M (75.1%)** of the **platform's $15.98M revenue**, with **AOVs of $261.2 and $180.5 vs. $107.3 for At-Risk and $56.5 for Churned customers**. High-value customers drive most revenue, making their retention essential for sustained growth. **Prioritize VIP and Loyal customers** with exclusive **retention programs and personalized offers** to maximize long-term value.
 
-5. **Delivery Experience Impact:** Average review scores dropped from 4.29 for on-time deliveries to below 2.0 for severely delayed orders, confirming that logistics performance strongly influences customer satisfaction.
+5. **Delivery Experience Impact:** Review scores **dropped from 4.29 (on-time) to 2.11 after 4–7 day delays and 1.70 after 7+ days**, while **late orders averaged a 10.62-day delay**. Satisfaction drops sharply after 4 days, with **carrier transit accounting for 74%** of delivery time. **Trigger SLA alerts after 3 days and strengthen carrier partnerships** in high-delay regions.
 
-6. **Churn Hypothesis Outcome:** Despite poor delivery experiences reducing satisfaction, churned customers still maintained an average review score of 4.15/5, indicating that customer churn is driven more by structural purchasing behavior than poor customer experience alone.
+6. **Regional Delivery Performance:** **AL (20.6%), MA (16.8%), SE (14.6%), PI (13.4%) and CE (13.2%)** had delay rates up to **3× the platform average (6.58%)**, while SP accounted for **1,842 sellers generating $10.22M**. Regional delivery performance varies significantly, indicating opportunities to improve logistics in high-delay states. **Expand regional fulfilment partnerships or warehouses in high-delay states** to reduce delivery delays and improve customer satisfaction.
 
-7. **Operational Revenue Leakage:** Identified payment-processing and fulfillment anomalies that resulted in shipped but unpaid orders, exposing preventable revenue leakage and operational control gaps.
+## Hypothesis Testing:
 
-8. **Customer Sentiment Issue:** Analysis revealed that 61.9% of reviews submitted before delivery were 1-star ratings, uncovering an automated communication issue negatively affecting customer perception.
-
-9. **Marketplace Concentration:** Seller and customer activity were heavily concentrated in São Paulo (SP), suggesting geographic dependency and potential delivery challenges for distant regions.
+Customers with delayed deliveries had a **94.63% churn rate vs. 93.61% for on-time deliveries (+1.02%)**. The **Chi-Square test** confirmed the association was **statistically significant (p = 0.0012)** at the **5%(α = 0.05) Significance level**. Although delivery delays are associated with higher churn, the small gap indicates **churn is primarily driven by structural purchasing behavior**. Prioritize **customer retention and repeat purchase strategies** while continuing to improve delivery performance.
 
 ## Conclusion:
 
