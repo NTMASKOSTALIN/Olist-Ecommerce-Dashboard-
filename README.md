@@ -7,8 +7,6 @@ By analysing customer transactions, delivery performance, review behaviour, and 
 
 ## Project Links:
 
-GitHub: https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-
-
 Tableau: https://public.tableau.com/views/OlistECommerceDashboard_17810122103490/CustomerRetention?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Business Objective:
@@ -129,6 +127,12 @@ Delivery delays are associated with higher customer churn.
 • Retention Cohort Rate
 
 • Early Churn Signals
+
+## Tools & Technologies
+
+• SQL (ETL, Profiling, Cleaning)
+• Python (EDA, Feature Engineering, Statistical Analysis)
+• Tableau (Dashboarding)
 
 ## Process
 
